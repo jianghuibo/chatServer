@@ -1,0 +1,3 @@
+/home/nowcoder/linux/testmoduo/build/CMakeFiles/server.dir
+/home/nowcoder/linux/testmoduo/build/CMakeFiles/edit_cache.dir
+/home/nowcoder/linux/testmoduo/build/CMakeFiles/rebuild_cache.dir
